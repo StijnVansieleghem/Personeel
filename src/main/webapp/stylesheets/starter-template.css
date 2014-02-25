@@ -1,0 +1,22 @@
+body {
+	padding-top: 50px;
+}
+
+input{
+	margin-top:15px;
+}
+
+/* ETC */
+
+.starter-template {
+	padding: 40px 15px;
+}
+
+.fout,.fouten {
+	color: red;
+	font-weight: bold;
+}
+
+.bold {
+	font-weight: bold;
+}
